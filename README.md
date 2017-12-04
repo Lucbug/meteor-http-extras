@@ -10,7 +10,7 @@ Adds the features proposed in [this PR](https://github.com/meteor/meteor/pull/16
 In a Meteor app directory, enter:
 
 ```bash
-$ meteor add http aldeed:http
+$ meteor add http lucbug:http
 ```
 
 ## Details
